@@ -7,16 +7,6 @@ console.log(add(5,10));
 
 
 // subtraction - Kaira
-let a = 5; 
-let b = 4; 
-  
-function subtract(a, b) { 
-    return a - b; 
-} 
-  
-console.log("total : " 
-    + subtract(a, b));
-
 function subtraction(a, b) {
         let diff = a - b;
         return diff;
